@@ -1,0 +1,6 @@
+# pip依赖列表
+python -m pip install --upgrade pip
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple PyMySQL
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple djangorestframework
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple simpleui
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mysqlclient
