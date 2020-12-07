@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'mysite',
         'USER': 'root',
         'PASSWORD': 'root123',
-        'HOST': '8.135.25.186',
+        'HOST': 'localhost',
         'PORT': 3306
     }
 }
